@@ -89,7 +89,7 @@
   },
   "primaryTokenAttribute": "hp",
   "secondaryTokenAttribute": "heat",
-  "url": "https://github.com/Eranziel/foundryvtt-lancer",
+  "url": "https://github.com/PrEDRiSing/foundryvtt-lancer",
   "manifest": "https://github.com/PrEDRiSing/foundryvtt-lancer/releases/latest/download/system.json",
   "download": "https://github.com/PrEDRiSing/foundryvtt-lancer/releases/download/v2.3.0e/lancer-v2.3.0e.zip",
   "license": "GNU GPLv3",
